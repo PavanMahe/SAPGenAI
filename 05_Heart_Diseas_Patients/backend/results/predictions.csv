@@ -1,0 +1,11 @@
+patient_name,prediction,probability,risk_level
+Alice Johnson,1,0.5024085021992536,Midum Risk
+Mark Williams,1,0.9095343420387324,High Risk
+Lisa Brown,0,0.3704700273008386,Midum Risk
+David Miller,1,0.9617028225976034,High Risk
+Emma Davis,0,0.2954388608982146,Low Risk
+Robert Wilson,1,0.8656960038152263,High Risk
+Sarah Garcia,1,0.657695684670646,Midum Risk
+James Martinez,1,0.939247733661869,High Risk
+Jennifer Lopez,0,0.42259645192562884,Midum Risk
+Michael Anderson,1,0.8614591464667748,High Risk
